@@ -1,0 +1,89 @@
+body{
+	text-align: center;
+	font-family: 'Happy Monkey',cursive;
+	background: linear-gradient(purple,orange);
+	color: #ffffff;
+
+}
+
+#bff{
+	width: 200px;
+	
+	
+
+	}
+h1 , h2 ,h4 
+{
+	text-shadow: 0px 0px 1px black;
+}
+
+#header{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+#age {
+  background: pink;
+  border-radius: 5px;
+  padding: 5px 10px;
+  margin: 5px 0 10px 0;
+}
+#date{
+	margin: 0;
+ background: pink;
+ padding: 7px 10px;
+  border-radius: 5px;
+}
+.gift-sction{
+  margin-top: 30px;
+}
+.gift-title{
+  margin-bottom: 10px;
+}
+.gift{
+	margin:0 auto;
+	width:400px;
+	height: 250px;
+	border: 4px solid black;
+	border-radius: 10px;
+	background: url("images/gift.jpg");
+	background-size: cover;
+}
+#gift-happy:hover {
+	background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj9VTUwgic06HhUq6yYN56Ur9eT0eVuIuXmg2ASNaxJ6c0ikb8VcX32l9lm42N4_x2Hj0&usqp=CAU");
+}
+#gift-hap:hover {
+	background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGvjOdBs3ffZT67Dh7FjHSfOEctFzNeI0qg&usqp=CAU");
+
+	}
+#gift-happ:hover {
+	background: url("https://pick-kart.com/wp-content/uploads/2021/08/Best-Birthday-Gifts-780x470.jpg");
+
+	}
+#gift-happi:hover {
+	background: url("images/cute.jpg");
+
+	}
+#gift-happyy:hover {
+	background: url("images/choclate.jpeg");
+	height: 200px;
+}
+#gift-happyy {
+	
+	height: 200px;
+}
+
+
+.h3{
+	color: purple;
+}
+.gift-hint{
+	color:red;
+}
+.h1{
+	color:green;
+}
+.text{
+	color:red;
+}
+
